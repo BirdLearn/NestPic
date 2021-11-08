@@ -1,0 +1,19 @@
+{
+  "name": "nestpic",
+  "version": "0.0.1",
+  "description": "Bird's Nest Image Bed Upload Tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BirdLearn/NestPic.git"
+  },
+  "author": "jiazhu@yeah.net",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/BirdLearn/NestPic/issues"
+  },
+  "homepage": "https://github.com/BirdLearn/NestPic#readme"
+}
